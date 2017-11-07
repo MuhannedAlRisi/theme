@@ -1,0 +1,31 @@
+/*
+    main theme 
+*/
+body {
+  background: #EEE;
+  color: #333; }
+
+.wrapper {
+  margin-top: 65px; }
+  .wrapper .header {
+    padding-top: 100px; }
+  .wrapper #logo {
+    text-align: center; }
+
+.select-main {
+  color: #333;
+  margin-top: 175px; }
+  .select-main h2 {
+    text-align: center; }
+
+.footer {
+  background: #333;
+  color: #FFF; }
+  .footer .menu-links li {
+    list-style: none; }
+    .footer .menu-links li a {
+      color: #FFF; }
+      .footer .menu-links li a:hover {
+        text-decoration: underline; }
+
+/*# sourceMappingURL=style.css.map */

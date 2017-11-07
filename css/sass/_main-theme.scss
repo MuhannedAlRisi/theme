@@ -1,0 +1,53 @@
+body{ 
+    background: #EEE; 
+    color: #333; 
+}
+.wrapper { 
+    margin-top: 65px; 
+    
+    
+    
+    //--------------------
+    // logo 
+    .header{
+        padding-top: 100px;
+    }
+    #logo{ 
+        text-align: center; 
+        
+    }
+}
+
+
+.select-main{ 
+//    background: #FFF; 
+    color: #333; 
+    margin-top: 175px; 
+    
+    
+    h2{
+        text-align: center;
+    }
+}
+.footer{ 
+    background: #333; 
+    color: #FFF; 
+    
+    
+//    /---------------------
+//    menu links in footoer 
+    .menu-links{
+        li{
+            list-style: none; 
+            
+            
+            a{
+                color: #FFF; 
+                
+                &:hover{ 
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}
